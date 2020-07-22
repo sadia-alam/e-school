@@ -82,21 +82,18 @@ h2{
     padding:20px 20px;
 }
 
-.card-footer{
-    border-top: none;
-    background-color: white;
-    border-radius: 20px !important;
+.cards-footer{
+    padding:20px 10px;
 }
 
-.card-footer img{
+.cards-footer img{
     width: 20px;
     height: 20px;
 }
 
-.card-footer p{
+.cards-footer p{
     padding:0px 5px;
     color: #585859;
-
 }
 
 .testimonial{
@@ -133,7 +130,11 @@ footer{
     padding-bottom: 20px;
 }
 
-
+.footer-text{
+    justify-content: center;
+    padding:10px 20px;
+    text-align: center;
+}
 
 
 
